@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.1",
-    "tailwindcss": "^2.2.16"
+    "tailwindcss": "^2.2.16",
+    "win-node-env": "^0.4.0"
   }
 }
